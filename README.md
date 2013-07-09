@@ -1,4 +1,4 @@
 project1
 ========
 
-This is test project directory
+I am testing the Github repository.
